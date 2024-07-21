@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grandpa-3
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in learning Python, R and SQL
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me email
